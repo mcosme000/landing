@@ -1,0 +1,20 @@
+footer {
+  padding: 50px;
+  background: rgb(59, 59, 59);
+  color: #fff;
+  text-align: center;
+}
+
+footer i {
+  color: #fff;
+  font-size: 20px;
+  margin-right: 30px;
+}
+
+footer i:last-child {
+  margin-right: 0px;
+}
+
+footer p {
+  margin-top: 20px;
+}
